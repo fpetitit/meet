@@ -59,6 +59,21 @@ dependencies = [
     "livekit-api==1.0.7",
     "aiohttp==3.13.3",
     "django-extensions==4.1",
+    "drf-spectacular-sidecar==2025.10.1",
+    "freezegun==1.5.5",
+    "ipdb==0.13.13",
+    "ipython==9.7.0",
+    "pyfakefs==5.10.2",
+    "pylint-django==2.6.1",
+    "pylint<4.0.0",
+    "pytest-cov==7.0.0",
+    "pytest-django==4.11.1",
+    "pytest==9.0.0",
+    "pytest-icdiff==0.9",
+    "pytest-xdist==3.8.0",
+    "responses==0.25.8",
+    "ruff==0.14.4",
+    "types-requests==2.32.4.20250913",
 ]
 
 [project.urls]
